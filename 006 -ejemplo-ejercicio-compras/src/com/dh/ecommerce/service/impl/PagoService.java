@@ -9,7 +9,7 @@ public class PagoService {
         Boolean pagoRealizado = Boolean.FALSE;
         if(tarjeta != null && tarjeta.getNumerosFrente() != null && tarjeta.getCodSeguridad() != null)
             System.out.println("Procesando el pago por "+ montoACobrar);
-            pagoRealizado = Boolean.TRUE;
+        pagoRealizado = Boolean.TRUE;
 
 
         return pagoRealizado;

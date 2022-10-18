@@ -1,6 +1,6 @@
 package com.dh.banco.service;
 
-public abstract class EmpleadoBanco {
+public abstract class EmpleadoBanco{
 
     protected EmpleadoBanco sigEmpleadoBanco;
 
@@ -10,4 +10,11 @@ public abstract class EmpleadoBanco {
         this.sigEmpleadoBanco = sigEmpleadoBanco;
         return this;
     }
+
+    @Override
+    public void procesarSolicitud(){
+
+    }
+
+
 }
