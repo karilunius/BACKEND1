@@ -1,0 +1,14 @@
+Dudas
+
+1. Es necesario crear la clase vuelo y hotel?
+Se puede poner en el servicioHotel por ejemplo los atributos
+y luego crear el metodo con esos atributos?
+
+2. No supe hacer como evitar escribir todos los parametros.
+Debí hacer un constructor vacio  en la clase Hotel y Vuelo para eso?
+O cuáles eran mis opciones?
+
+3. En el facadeImplBusqueda tuve o tengo problemas con lo de void
+boolean, string. Quería generar strings pero no supe usar toString
+o como pasar de boolean a String.
+Un opción de solución cual sería?
