@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/006 -ejemplo-ejercicio-compras/006 -ejemplo-ejercicio-compras.iml" filepath="$PROJECT_DIR$/006 -ejemplo-ejercicio-compras/006 -ejemplo-ejercicio-compras.iml" />
-      <module fileurl="file://$PROJECT_DIR$/009-ejemplo-cocinero/009-ejemplo-cocinero.iml" filepath="$PROJECT_DIR$/009-ejemplo-cocinero/009-ejemplo-cocinero.iml" />
-      <module fileurl="file://$PROJECT_DIR$/012-ejemplo-creditos/012-ejemplo-creditos.iml" filepath="$PROJECT_DIR$/012-ejemplo-creditos/012-ejemplo-creditos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/014-ejemplo-proxy-internet/014-ejemplo-proxy-internet.iml" filepath="$PROJECT_DIR$/014-ejemplo-proxy-internet/014-ejemplo-proxy-internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001 -ejemploFacade-ejercicio-compras/001 -ejemploFacade-ejercicio-compras.iml" filepath="$PROJECT_DIR$/001 -ejemploFacade-ejercicio-compras/001 -ejemploFacade-ejercicio-compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/002-Templatemethodejemplo-cocinero.iml" filepath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/002-Templatemethodejemplo-cocinero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/004-cadenaresponsabilidad-ejemplo-creditos.iml" filepath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/004-cadenaresponsabilidad-ejemplo-creditos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-ejemplo-proxy-internet/005-ejemplo-proxy-internet.iml" filepath="$PROJECT_DIR$/005-ejemplo-proxy-internet/005-ejemplo-proxy-internet.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BACKEND1.iml" filepath="$PROJECT_DIR$/.idea/BACKEND1.iml" />
     </modules>
   </component>

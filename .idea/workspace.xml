@@ -2,184 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - SEMANA 1 BACKEND-">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001-mesa1/Consign" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001-practicoprofe-clase1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001-practicoprofe-clase1/consigna" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/Ejemplo de ejercicio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/Blackberry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/Ejemplo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/Iphone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/MobileShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/Samsung.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/ShopKeeper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/ejemplo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/facadeuml.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/ejemplo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/Acelerador.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/Ejemplo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/Embrague.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/Fachada.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/IAcelerador.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/IEmbrague.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/IPalancaCambios.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/PalancaCambios.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/Bateria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/CPU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/FacadeMovil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/Movil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/Principal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/ServicioGPS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/ServicioMovil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/ServicioWIFI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/clases-2.drawio (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/consigna" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/ejemplo menu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/out/production/_002-mesa2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/out/production/_002-mesa2/Productos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/src/MenuClasico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/src/MenuInfantil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/src/MenuVegetariano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/src/ProductLista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-mesa2/src/Productos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-practicoprofe-clase2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-practicoprofe-clase2/consigna del ejemplo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003-practicoprofe-clase3/consigna" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa3/.idea/004-practicoresolucionMenu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa3/consigna" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa3/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/.idea/004-mesa4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/consigna" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/out/production/src/Analista.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/out/production/src/CalidadEnvase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/out/production/src/CalidadLote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/out/production/src/CalidadPeso.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/out/production/src/CompruebaCalidad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/out/production/src/Producto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/out/production/src/Tipo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/src/src/Analista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/src/src/CalidadEnvase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/src/src/CalidadLote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/src/src/CalidadPeso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/src/src/CompruebaCalidad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/src/src/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-mesa4/src/src/Tipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/.idea/004-practicoprofe-clase4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/consigna" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/out/production/src/Diputado.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/out/production/src/Documento.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/out/production/src/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/out/production/src/Manejador.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/out/production/src/Ministro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/out/production/src/Presidente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/out/production/src/Tipo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/src/src/Diputado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/src/src/Documento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/src/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/src/src/Manejador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/src/src/Ministro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/src/src/Presidente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/src/src/Tipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/.idea/005-mesa5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/consigna" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Cancion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/IntSpotifyService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/SpotifyServiceImple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Tipo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Usuario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/src.plantuml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/src/src/Cancion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/src/src/IntSpotifyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/src/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/src/src/SpotifyServiceImple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/src/src/Tipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-mesa5/src/src/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/.idea/005-practicoprofe-clase5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/consigna" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/src/src/Documento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/src/src/DriveService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/src/src/IDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/src/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/src/src/ProxyDriveService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 -ejemplo-ejercicio-compras/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009-ejemplo-cocinero/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012-ejemplo-creditos/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/014-ejemplo-proxy-internet/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/Grupo7 Cadena de Responsabilidad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/out/production/Grupo7 Cadena de Responsabilidad/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/out/production/Grupo7 Cadena de Responsabilidad/impl/AnalistaDeCalidad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/out/production/Grupo7 Cadena de Responsabilidad/impl/CTRL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/out/production/Grupo7 Cadena de Responsabilidad/impl/CTRLEnvase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/out/production/Grupo7 Cadena de Responsabilidad/impl/CTRLLote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/out/production/Grupo7 Cadena de Responsabilidad/impl/CTRLPeso.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/out/production/Grupo7 Cadena de Responsabilidad/model/Articulo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/out/production/Grupo7 Cadena de Responsabilidad/model/Envase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/src/impl/AnalistaDeCalidad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/src/impl/CTRL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/src/impl/CTRLEnvase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/src/impl/CTRLLote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/src/impl/CTRLPeso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/src/model/Articulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extras/Grupo- Cadena de Responsabilidad/src/model/Envase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001-mesa1/out/production/_001-mesa1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/001-mesa1/out/production/_001-mesa1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001-mesa1/out/production/_001-mesa1/ServiceHotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/001-mesa1/out/production/_001-mesa1/ServiceHotel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001-mesa1/out/production/_001-mesa1/ServiceVuelo.class" beforeDir="false" afterPath="$PROJECT_DIR$/001-mesa1/out/production/_001-mesa1/ServiceVuelo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001-mesa1/src/FacadeImplBusqueda.java" beforeDir="false" afterPath="$PROJECT_DIR$/001-mesa1/src/FacadeImplBusqueda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001-mesa1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/001-mesa1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001-mesa1/src/ServiceHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/001-mesa1/src/ServiceHotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001-mesa1/src/ServiceVuelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/001-mesa1/src/ServiceVuelo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/src/com/dh/banco/service/EmpleadoBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/012-ejemplo-creditos/src/com/dh/banco/service/EmpleadoBanco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_integrador/Consigna.txt" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_integrador/Consigna.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/002-Templatemethodejemplo-cocinero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/cocinero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/ejemplo template method" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/out/production/cocinero/com/dh/pizzeria/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/out/production/cocinero/com/dh/pizzeria/service/Cocinero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/out/production/cocinero/com/dh/pizzeria/service/impl/CocineroNoVeggie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/out/production/cocinero/com/dh/pizzeria/service/impl/CocineroVeggie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/src/com/dh/pizzeria/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/src/com/dh/pizzeria/service/Cocinero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/src/com/dh/pizzeria/service/impl/CocineroNoVeggie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/src/com/dh/pizzeria/service/impl/CocineroVeggie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/004-cadenaresponsabilidad-ejemplo-creditos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/creditos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/out/production/creditos/com/dh/banco/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/out/production/creditos/com/dh/banco/service/EmpleadoBanco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/out/production/creditos/com/dh/banco/service/impl/Director.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/out/production/creditos/com/dh/banco/service/impl/EjecutivoCuenta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/out/production/creditos/com/dh/banco/service/impl/Gerente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/src/com/dh/banco/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/src/com/dh/banco/service/EmpleadoBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/src/com/dh/banco/service/impl/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/src/com/dh/banco/service/impl/EjecutivoCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-cadenaresponsabilidad-ejemplo-creditos/src/com/dh/banco/service/impl/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/009-ejemplo-cocinero.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/cocinero.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/out/production/cocinero/com/dh/pizzeria/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/out/production/cocinero/com/dh/pizzeria/service/Cocinero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/out/production/cocinero/com/dh/pizzeria/service/impl/CocineroNoVeggie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/out/production/cocinero/com/dh/pizzeria/service/impl/CocineroVeggie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/src/com/dh/pizzeria/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/src/com/dh/pizzeria/service/Cocinero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/src/com/dh/pizzeria/service/impl/CocineroNoVeggie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemplo-cocinero/src/com/dh/pizzeria/service/impl/CocineroVeggie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/012-ejemplo-creditos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/creditos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/out/production/creditos/com/dh/banco/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/out/production/creditos/com/dh/banco/service/EmpleadoBanco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/out/production/creditos/com/dh/banco/service/impl/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/out/production/creditos/com/dh/banco/service/impl/EjecutivoCuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/out/production/creditos/com/dh/banco/service/impl/Gerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/src/com/dh/banco/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/src/com/dh/banco/service/EmpleadoBanco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/src/com/dh/banco/service/impl/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/src/com/dh/banco/service/impl/EjecutivoCuenta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012-ejemplo-creditos/src/com/dh/banco/service/impl/Gerente.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +104,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/005-mesa5",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -230,6 +128,7 @@
       <workItem from="1666210199677" duration="402000" />
       <workItem from="1666454674057" duration="4179000" />
       <workItem from="1666459809677" duration="1136000" />
+      <workItem from="1666470654153" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
