@@ -1,4 +1,6 @@
 public class ServiceHotel {
+    public ServiceHotel() {
+    }
 
     public Hotel buscarHotel (String fechaEntrada, String fechaSalidaH, String ciudad){
         System.out.println("Obteniendo hoteles disponibles");

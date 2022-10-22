@@ -1,0 +1,47 @@
+@startuml
+
+!theme plain
+top to bottom direction
+skinparam linetype ortho
+
+class Cancion {
+  + Cancion(String, String): 
+  - nombre: String
+  - autor: String
+  + toString(): String
+   autor: String
+   nombre: String
+}
+interface IntSpotifyService << interface >> {
+  + descargarCancion(Cancion): void
+}
+class Main {
+  + Main(): 
+  + main(String[]): void
+}
+class SpotifyServiceImple {
+  + SpotifyServiceImple(): 
+  + descargarCancion(Cancion): void
+}
+enum Tipo << enumeration >> {
+  + Tipo(): 
+  + values(): Tipo[]
+  + valueOf(String): Tipo
+}
+class Usuario {
+  + Usuario(Integer, Tipo): 
+  - identificador: Integer
+  - tipo: Tipo
+  + toString(): String
+   identificador: Integer
+   tipo: Tipo
+}
+
+Main                 -[#595959,dashed]->  Cancion             : "«create»"
+Main                 -[#595959,dashed]->  SpotifyServiceImple : "«create»"
+Main                 -[#595959,dashed]->  Usuario             : "«create»"
+SpotifyServiceImple "1" *-[#595959,plain]-> "cancion\n1" Cancion             
+SpotifyServiceImple  -[#008200,dashed]-^  IntSpotifyService   
+SpotifyServiceImple "1" *-[#595959,plain]-> "usuario\n1" Usuario             
+Usuario             "1" *-[#595959,plain]-> "tipo\n1" Tipo                
+@enduml

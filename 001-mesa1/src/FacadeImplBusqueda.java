@@ -11,9 +11,9 @@ public class FacadeImplBusqueda implements IFacadeBusqueda {
     @Override
     public boolean procesarBusqueda(String fechaEntrada, String fechaSalidaH, String ciudad, String fechaSalidaV, String fechaRegreso, String origen, String destino) {
 
-        if (serviceHotel.buscarHotel(fechaEntrada, fechaSalidaH, ciudad) != null && serviceVuelo.buscarVuelo(fechaSalidaV, fechaRegreso, origen, destino) != null) {
-            System.out.println(serviceHotel.buscarHotel(fechaEntrada, fechaSalidaH, ciudad));
-            System.out.println(serviceVuelo.buscarVuelo(fechaSalidaV, fechaRegreso, origen, destino));
+        if (ServiceHotel.buscarHotel(fechaEntrada, fechaSalidaH, ciudad) != null && ServiceVuelo.buscarVuelo(fechaSalidaV, fechaRegreso, origen, destino) != null) {
+            System.out.println(ServiceHotel.buscarHotel(fechaEntrada, fechaSalidaH, ciudad));
+            System.out.println(ServiceVuelo.buscarVuelo(fechaSalidaV, fechaRegreso, origen, destino));
 
         }
 
