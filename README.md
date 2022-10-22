@@ -3,8 +3,11 @@ laughing-happiness
 
 SEMANA 1 
 
-006 Ejemplo de ejercicio: compras.
-009 Ejemplo de ejercicio: cocinero.
-012 Ejemplo de ejercicio: creditos.
-014 Ejemplo de ejercicio: proxy-compras.
+DIA 1 - Facade 
+DIA 2 - Template method
+DIA 3 - Completó ejercicio de mesa 2 - PAGOS
+DIA 4 - Cadena de responsabilidad
+DIA 5 - Proxy 
+
+SEMANA 2 
 
