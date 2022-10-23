@@ -17,9 +17,14 @@ public class SpotifyServiceImple implements IntSpotifyService {
 
     }*/
 
+    public SpotifyServiceImple(Usuario usuario, Cancion cancion) {
+        this.usuario = usuario;
+        this.cancion = cancion;
+    }
+
     @Override
     public void descargarCancion(Cancion cancion) {
-        System.out.println("******************Descargando Cancion**************************" + "\n" +
+        System.out.println("******************Descargando Cancion Spotify para escucha offline**************************" + "\n" +
                 cancion.toString() + "\n"
                 );
     }

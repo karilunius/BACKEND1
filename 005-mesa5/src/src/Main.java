@@ -35,9 +35,17 @@ public class Main {
 
         //servicio 1 de prueba
 
-        SpotifyServiceImple servicio = new SpotifyServiceImple();
+        //SpotifyServiceImple servicio = new SpotifyServiceImple();
 
+        //servicio.descargarCancion(cancion1);
+
+
+        //servicio 2 prueba con proxy
+
+        ProxySpotifyService servicio = new ProxySpotifyService(usuariofree);
+        ProxySpotifyService servicio1 = new ProxySpotifyService(usuarioPremium);
         servicio.descargarCancion(cancion1);
+        servicio1.descargarCancion(cancion1);
 
 
 
