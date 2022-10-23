@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - contenido sem-">
-      <change afterPath="$PROJECT_DIR$/006-practicoprofe-clase6/consigna playground" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/libraries/log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/008-proyectoLog4j.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/log4j.properties" afterDir="false" />
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - contenido sem2 anexos log4 y h2-">
+      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/src/TestLog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005-mesa5/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005-mesa5/out/production/src/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005-mesa5/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/src/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005-mesa5/src/src/SpotifyServiceImple.java" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/src/src/SpotifyServiceImple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005-mesa5/src/src/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/src/src/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/log4j.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-proyectoLog4j",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/005-mesa5",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -61,7 +68,10 @@
       <workItem from="1666210199677" duration="402000" />
       <workItem from="1666454674057" duration="4179000" />
       <workItem from="1666459809677" duration="1136000" />
-      <workItem from="1666470654153" duration="3518000" />
+      <workItem from="1666470654153" duration="3720000" />
+      <workItem from="1666479170903" duration="45000" />
+      <workItem from="1666536274013" duration="746000" />
+      <workItem from="1666537287360" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -105,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666471485107</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="COMMIT - contenido sem2 anexos log4 y h2-">
+      <created>1666478506347</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666478506347</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +147,7 @@
     <MESSAGE value="COMMIT - SEMANA 1 BACKEND-" />
     <MESSAGE value="COMMIT - Cambio de semana a sem2-" />
     <MESSAGE value="COMMIT - contenido sem-" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - contenido sem-" />
+    <MESSAGE value="COMMIT - contenido sem2 anexos log4 y h2-" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - contenido sem2 anexos log4 y h2-" />
   </component>
 </project>

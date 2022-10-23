@@ -12,7 +12,6 @@ public class Usuario {
         this.tipo = tipo;
     }
 
-
     //getter & setters
 
     public Integer getIdentificador() {

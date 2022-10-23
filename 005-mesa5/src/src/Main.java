@@ -6,13 +6,15 @@ public class Main {
 
         //Creo canciones
 
+        List<Cancion> ListaCanciones = new ArrayList<>();
+
         Cancion cancion1 = new Cancion("Shape of You","Ed Sheeran");
         Cancion cancion2 = new Cancion("Thinking out loud","Ed Sheeran");
         Cancion cancion3 = new Cancion("Perfect","Ed Sheeran");
         Cancion cancion4 = new Cancion("Photograph","Ed Sheeran");
         Cancion cancion5 = new Cancion("Kiss me","Ed Sheeran");
 
-        List<Cancion> ListaCanciones = new ArrayList<>();
+
         ListaCanciones.add(cancion1);
         ListaCanciones.add(cancion2);
         ListaCanciones.add(cancion3);
