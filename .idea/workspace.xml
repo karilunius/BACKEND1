@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - contenido sem2 anexos log4 y h2-">
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/src/TestLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesa5/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesa5/out/production/src/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesa5/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/src/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesa5/src/src/SpotifyServiceImple.java" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/src/src/SpotifyServiceImple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesa5/src/src/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/src/src/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/log4j.properties" afterDir="false" />
-    </list>
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - contenido sem2 anexos log4 y h2-" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/005-mesa5",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/proyecto_integrador",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -72,6 +59,7 @@
       <workItem from="1666479170903" duration="45000" />
       <workItem from="1666536274013" duration="746000" />
       <workItem from="1666537287360" duration="318000" />
+      <workItem from="1666626766966" duration="268000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
