@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19604349-4416-40dd-be4b-852f777148f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../002-ejemplosFacade/Facade/ejemplo1/ejemplo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../002-ejemplosFacade/Facade/ejemplo1/out/production/ejemplo1/ejemplo1/ejemplo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consigna" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-mesa5/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-mesa5/out/production/src/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/005-mesaExtra"
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/005-practicoprofe-clase5"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666465544961</updated>
       <workItem from="1666465546539" duration="85000" />
+      <workItem from="1666633239713" duration="203000" />
     </task>
     <servers />
   </component>

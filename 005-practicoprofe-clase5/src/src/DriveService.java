@@ -15,6 +15,7 @@ public class DriveService implements IDrive{
 
     @Override
     public Documento traerDocumento(String url, String mail) {
-        return documentos.stream().filter(documento -> documento.getUrl().equals(url)) && documento.getUsuariosAutorizados().contains(mail)).findFirst().orElse(null) ;
+        return documentos.stream().filter(documento -> documento.getUrl().equals(url) && documento.getUsuariosAutorizados().contains(mail)).findFirst().orElse(null);
+
     }
 }
