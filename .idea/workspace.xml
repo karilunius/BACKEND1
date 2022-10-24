@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - contenido sem2 anexos log4 y h2-" />
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - cambios SUBMODULOS">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_integrador" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +31,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/proyecto_integrador",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/proyecto_integrador",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -60,6 +65,7 @@
       <workItem from="1666536274013" duration="746000" />
       <workItem from="1666537287360" duration="318000" />
       <workItem from="1666626766966" duration="268000" />
+      <workItem from="1666627646471" duration="1438000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -110,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666478506347</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="COMMIT - cambios SUBMODULOS">
+      <created>1666627759664</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666627759664</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +149,7 @@
     <MESSAGE value="COMMIT - Cambio de semana a sem2-" />
     <MESSAGE value="COMMIT - contenido sem-" />
     <MESSAGE value="COMMIT - contenido sem2 anexos log4 y h2-" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - contenido sem2 anexos log4 y h2-" />
+    <MESSAGE value="COMMIT - cambios SUBMODULOS" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - cambios SUBMODULOS" />
   </component>
 </project>
