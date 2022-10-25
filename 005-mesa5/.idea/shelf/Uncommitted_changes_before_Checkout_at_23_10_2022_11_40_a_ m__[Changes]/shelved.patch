@@ -1,0 +1,85 @@
+Index: ../.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"6b158c73-2397-48b2-812f-537903739fe2\" name=\"Changes\" comment=\"COMMIT - contenido sem2 anexos log4 y h2-\">\r\n      <change afterPath=\"$PROJECT_DIR$/008-proyectoLog4j/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/008-proyectoLog4j/src/src.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/008-proyectoLog4j/src/src/TestLog.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/005-mesa5/out/production/src/Main.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/005-mesa5/out/production/src/Main.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/005-mesa5/out/production/src/Usuario.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/005-mesa5/out/production/src/Usuario.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/005-mesa5/src/src/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/005-mesa5/src/src/Main.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/005-mesa5/src/src/SpotifyServiceImple.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/005-mesa5/src/src/SpotifyServiceImple.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/005-mesa5/src/src/Usuario.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/005-mesa5/src/src/Usuario.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/008-proyectoLog4j/.idea/modules.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/008-proyectoLog4j/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/008-proyectoLog4j/log4j.properties\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/008-proyectoLog4j/log4j.properties\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2GF4unz6KDpBraOm8aMMMsBS3DI\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"C:/Users/Karol/Desktop/BACKEND1/005-mesa5\",\r\n    \"project.structure.last.edited\": \"SDKs\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.2\",\r\n    \"run.code.analysis.last.selected.profile\": \"pProject Default\",\r\n    \"settings.editor.selected.configurable\": \"project.propVCSSupport.DirectoryMappings\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"6b158c73-2397-48b2-812f-537903739fe2\" name=\"Changes\" comment=\"\" />\r\n      <created>1665971222760</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1665971222760</updated>\r\n      <workItem from=\"1665971224105\" duration=\"152000\" />\r\n      <workItem from=\"1665971569162\" duration=\"445000\" />\r\n      <workItem from=\"1665972477737\" duration=\"409000\" />\r\n      <workItem from=\"1666039489065\" duration=\"300000\" />\r\n      <workItem from=\"1666039918547\" duration=\"117000\" />\r\n      <workItem from=\"1666100471651\" duration=\"261000\" />\r\n      <workItem from=\"1666109265653\" duration=\"1021000\" />\r\n      <workItem from=\"1666127157105\" duration=\"579000\" />\r\n      <workItem from=\"1666209530152\" duration=\"586000\" />\r\n      <workItem from=\"1666210199677\" duration=\"402000\" />\r\n      <workItem from=\"1666454674057\" duration=\"4179000\" />\r\n      <workItem from=\"1666459809677\" duration=\"1136000\" />\r\n      <workItem from=\"1666470654153\" duration=\"3720000\" />\r\n      <workItem from=\"1666479170903\" duration=\"45000\" />\r\n      <workItem from=\"1666536274013\" duration=\"746000\" />\r\n      <workItem from=\"1666537287360\" duration=\"318000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"001- carpeta backend1 - ejercicios\">\r\n      <created>1665971765113</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665971765113</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"002- gitfileignore\">\r\n      <created>1666109934432</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1666109934432</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"002- ejercicios anexados mesa 1\">\r\n      <created>1666110225472</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1666110225472</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"003- ejercicios mesa 2\">\r\n      <created>1666209884348</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1666209884348</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"COMMIT - Cambio de semana a sem2-\">\r\n      <created>1666471115481</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1666471115481</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"COMMIT - contenido sem-\">\r\n      <created>1666471485107</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1666471485107</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"COMMIT - contenido sem2 anexos log4 y h2-\">\r\n      <created>1666478506347</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1666478506347</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"001- carpeta backend1 - ejercicios\" />\r\n    <MESSAGE value=\"002- gitfileignore\" />\r\n    <MESSAGE value=\"002- ejercicios anexados mesa 1\" />\r\n    <MESSAGE value=\"003- ejercicios mesa 2\" />\r\n    <MESSAGE value=\"COMMIT - SEMANA 1 BACKEND-\" />\r\n    <MESSAGE value=\"COMMIT - Cambio de semana a sem2-\" />\r\n    <MESSAGE value=\"COMMIT - contenido sem-\" />\r\n    <MESSAGE value=\"COMMIT - contenido sem2 anexos log4 y h2-\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"COMMIT - contenido sem2 anexos log4 y h2-\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../.idea/workspace.xml b/../.idea/workspace.xml
+--- a/../.idea/workspace.xml	(revision ed723d532f8325a1ba7eb7c1296fb374169aba79)
++++ b/../.idea/workspace.xml	(date 1666543048676)
+@@ -1,19 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - contenido sem2 anexos log4 y h2-">
+-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/src.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/src/TestLog.java" afterDir="false" />
++    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - cambios de config">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/005-mesa5/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Main.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/005-mesa5/out/production/src/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/out/production/src/Usuario.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/005-mesa5/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/src/src/Main.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/005-mesa5/src/src/SpotifyServiceImple.java" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/src/src/SpotifyServiceImple.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/005-mesa5/src/src/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/src/src/Usuario.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/modules.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/log4j.properties" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -41,11 +30,11 @@
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "WebServerToolWindowFactoryState": "false",
+     "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/005-mesa5",
+-    "project.structure.last.edited": "SDKs",
++    "project.structure.last.edited": "Project",
+     "project.structure.proportion": "0.0",
+     "project.structure.side.proportion": "0.2",
+     "run.code.analysis.last.selected.profile": "pProject Default",
+-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
++    "settings.editor.selected.configurable": "advanced.settings"
+   }
+ }]]></component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -72,6 +61,9 @@
+       <workItem from="1666479170903" duration="45000" />
+       <workItem from="1666536274013" duration="746000" />
+       <workItem from="1666537287360" duration="318000" />
++      <workItem from="1666538523542" duration="339000" />
++      <workItem from="1666539427599" duration="24000" />
++      <workItem from="1666542760541" duration="237000" />
+     </task>
+     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
+       <created>1665971765113</created>
+@@ -122,7 +114,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1666478506347</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="COMMIT - cambios de config">
++      <created>1666538585199</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1666538585199</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -148,6 +147,11 @@
+     <MESSAGE value="COMMIT - Cambio de semana a sem2-" />
+     <MESSAGE value="COMMIT - contenido sem-" />
+     <MESSAGE value="COMMIT - contenido sem2 anexos log4 y h2-" />
+-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - contenido sem2 anexos log4 y h2-" />
++    <MESSAGE value="COMMIT - cambios de config" />
++    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - cambios de config" />
++  </component>
++  <component name="XSLT-Support.FileAssociations.UIState">
++    <expand />
++    <select />
+   </component>
+ </project>
+\ No newline at end of file

@@ -4,13 +4,12 @@ public class Documento {
     private String url;
     private String id;
     private String contenido;
-    private List<String>  usuariosAutorizados;
 
-    public Documento(String url, String id, String contenido, List<String> usuariosAutorizados) {
+
+    public Documento(String url, String id, String contenido) {
         this.url = url;
         this.id = id;
         this.contenido = contenido;
-        this.usuariosAutorizados = usuariosAutorizados;
     }
 
 
@@ -38,11 +37,12 @@ public class Documento {
         this.contenido = contenido;
     }
 
-    public List<String> getUsuariosAutorizados() {
-        return usuariosAutorizados;
-    }
-
-    public void setUsuariosAutorizados(List<String> usuariosAutorizados) {
-        this.usuariosAutorizados = usuariosAutorizados;
+    @Override
+    public String toString() {
+        return "Documento{" +
+                "url='" + url + '\'' +
+                ", id='" + id + '\'' +
+                ", contenido='" + contenido + '\'' +
+                '}';
     }
 }

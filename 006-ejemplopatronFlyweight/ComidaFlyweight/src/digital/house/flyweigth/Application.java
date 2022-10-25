@@ -5,14 +5,14 @@ import digital.house.flyweight.factory.ComidaFactory;
 
 public class Application {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		final ComidaFactory comida = new ComidaFactory();
+        final ComidaFactory comida = new ComidaFactory();
 
-		ComidaDTO pastaVerdura = comida.getComida("Pastas");
-		pastaVerdura.setPrecio(10000);
+        ComidaDTO pastaVerdura = comida.getComida("Pastas");
+        pastaVerdura.setPrecio(10000);
 
-		final ComidaDTO pastaCarne = comida.getComida("Pastas");
-		System.out.println(pastaCarne.toString());
-	}
+        final ComidaDTO pastaCarne = comida.getComida("Pastas");
+        System.out.println(pastaCarne.toString());
+    }
 }

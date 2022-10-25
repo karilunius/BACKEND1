@@ -1,21 +1,33 @@
+import java.util.ArrayList;
 import java.util.List;
 
 public class DriveService implements IDrive{
 
-    private List<Documento> documentos;
-
+    protected List<Documento> documentos = new ArrayList<Documento>();
+    protected List<Usuario> usuariosAutorizados = new ArrayList<Usuario>();
 
 
     //constructor
-    public DriveService(List<Documento> documentos) {
-        this.documentos = documentos;
+
+
+    public DriveService() {
     }
 
-
+    public DriveService(List<Documento> documentos, List<Usuario> usuariosAutorizados) {
+        this.documentos = documentos;
+        this.usuariosAutorizados = usuariosAutorizados;
+    }
 
     @Override
     public Documento traerDocumento(String url, String mail) {
-        return documentos.stream().filter(documento -> documento.getUrl().equals(url) && documento.getUsuariosAutorizados().contains(mail)).findFirst().orElse(null);
-
+        //Documento documento = traerDocumento(url, mail); salió error StackOverflowError create breakpoint
+        if (documentos.contains(url) && usuariosAutorizados.contains(mail) ) {
+            System.out.println("El usuario: " + usuariosAutorizados.contains(mail) + '\n' +
+                    "está autenticado para descargar ****************************" + '\n'+
+                    "**************DESCARGANDO DOCUMENTO**************************" + '\n' +
+                    documentos.toString())
+                    ;
+        }
+        return null;
     }
 }

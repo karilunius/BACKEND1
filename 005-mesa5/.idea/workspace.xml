@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7258053-4588-44cc-a366-8f110c6d4797" name="Changes" comment="commit -RAMA-MESA5-proxy actividad">
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Documento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Documento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/DriveService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/DriveService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Documento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Documento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/DriveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/DriveService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="Ka-005-mesa5-ProxyView" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/src/Cancion.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/src/IntSpotifyService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/src/SpotifyServiceImple.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/src/Usuario.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GTFXqrH6fm0w91ikS6n8NassUr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/006-ejemplopatronFlyweight",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7258053-4588-44cc-a366-8f110c6d4797" name="Changes" comment="" />
+      <created>1666404708872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666404708872</updated>
+      <workItem from="1666404710640" duration="6141000" />
+      <workItem from="1666452150367" duration="2771000" />
+      <workItem from="1666462855931" duration="438000" />
+      <workItem from="1666465443677" duration="2238000" />
+      <workItem from="1666536353609" duration="59000" />
+      <workItem from="1666536422261" duration="675000" />
+      <workItem from="1666537610487" duration="121000" />
+      <workItem from="1666538871727" duration="549000" />
+      <workItem from="1666543123970" duration="2096000" />
+      <workItem from="1666623675176" duration="648000" />
+      <workItem from="1666637586964" duration="1908000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit - CREACION DE RAMA MESA5-proxyview">
+      <created>1666465742439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666465742439</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit - CREACION DE RAMA MESA5-proxyview">
+      <created>1666465789555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666465789555</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit -cambios a consigna">
+      <created>1666465873248</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666465873248</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit -RAMA-MESA5-proxy actividad">
+      <created>1666545211554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666545211554</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit - CREACION DE RAMA MESA5-proxyview" />
+    <MESSAGE value="commit -cambios a consigna" />
+    <MESSAGE value="commit -RAMA-MESA5-proxy actividad" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit -RAMA-MESA5-proxy actividad" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
