@@ -11,3 +11,8 @@ DIA 5 - Proxy
 
 SEMANA 2 
 
+DIA 6 - Patrón Flyweight
+DIA 7 -
+DIA 8 -
+DIA 9 -
+DIA 10-
