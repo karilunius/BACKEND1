@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/007-mesa7.iml" filepath="$PROJECT_DIR$/.idea/007-mesa7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/007-mesa7-junit.iml" filepath="$PROJECT_DIR$/.idea/007-mesa7-junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
     </modules>
   </component>
 </project>

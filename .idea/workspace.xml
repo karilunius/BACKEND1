@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - CRITICO-cambios ficheros">
-      <change afterPath="$PROJECT_DIR$/007-mesa7/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007-mesa7/.idea/007-mesa7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007-mesa7/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007-mesa7/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007-mesa7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007-mesa7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007-mesa7/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007-mesa7/consigna" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - dia de clase 7 junit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/007-practicojunit-profe-clase7/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/007-practicojunit-profe-clase7/src/src.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/007-mesa7",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -98,7 +88,8 @@
       <workItem from="1666676365244" duration="520000" />
       <workItem from="1666708601128" duration="664000" />
       <workItem from="1666743105597" duration="999000" />
-      <workItem from="1666744322134" duration="61000" />
+      <workItem from="1666744322134" duration="126000" />
+      <workItem from="1666797874793" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -191,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666744020342</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="COMMIT - dia de clase 7 junit">
+      <created>1666744422154</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666744422154</updated>
+    </task>
+    <task id="LOCAL-00015" summary="COMMIT - dia de clase 7 junit">
+      <created>1666744437805</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666744437805</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +226,7 @@
     <MESSAGE value="COMMIT - cambios nuevo submodulo" />
     <MESSAGE value="COMMIT - cambios submodulo" />
     <MESSAGE value="COMMIT - CRITICO-cambios ficheros" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - CRITICO-cambios ficheros" />
+    <MESSAGE value="COMMIT - dia de clase 7 junit" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - dia de clase 7 junit" />
   </component>
 </project>
