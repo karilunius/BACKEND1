@@ -72,3 +72,7 @@
 # 3D Images
 *.3dm
 *.max
+
+
+/lib/
+*.jar
