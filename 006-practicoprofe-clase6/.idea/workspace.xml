@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c58b6b57-5137-4a57-a73d-0f5589f6d8e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../001-mesa1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/facadeuml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-mesa4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-practicoprofe-clase4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-mesa5/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_10_2022_11_40_a__m___Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-mesa5/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_10_2022_11_40_a_ m__[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-mesa5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/CLASE-5-PROXI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/src/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/src/DriveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/src/IDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/CLASE-5-PROXI/src/ProxiDive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/PProxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/out/production/PProxy/com/company/Documento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/out/production/PProxy/com/company/DriveService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/out/production/PProxy/com/company/IDrive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/out/production/PProxy/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/src/com/company/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/src/com/company/DriveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/src/com/company/IDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/ProfeProxy/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Usuario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/.idea/006-ejemplopatronFlyweight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/006-mesa6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/CLASE-7-FLY/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/CLASE-7-FLY/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/CLASE-7-FLY/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/CLASE-7-FLY/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/CLASE-7-FLY/CLASE-7-FLYWEIGHT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/CLASE-7-FLY/src/Arbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/CLASE-7-FLY/src/FactoryArbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/CLASE-7-FLY/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/consigna" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/src/src/Arbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006-mesa6/src/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/006-practicoprofe-clase6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/FlyweightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Documento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Documento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/DriveService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/DriveService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Documento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Documento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/DriveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/DriveService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/ComidaFlyweight/src/digital/house/flyweigth/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/ComidaFlyweight/src/digital/house/flyweigth/Application.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/src/FlyweightFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/src/Main.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GbKnTWKUYgXZw1zJxjh36BHI54" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c58b6b57-5137-4a57-a73d-0f5589f6d8e7" name="Changes" comment="" />
+      <created>1666652011744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666652011744</updated>
+      <workItem from="1666652013511" duration="95000" />
+      <workItem from="1666652994271" duration="3026000" />
+      <workItem from="1666675125161" duration="55000" />
+      <workItem from="1666676334537" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
