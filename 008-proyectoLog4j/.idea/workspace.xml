@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a595b306-7f9d-4706-87c1-07c4657e263d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/008-practicoprofe-clase8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/consigna" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/avisos.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/TestLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/TestLog" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/log4j.properties" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GgEjfW5xvUkRQUFf1EaWMlBEI5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-practicoprofe-clase8",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Karol\Desktop\BACKEND1\008-proyectoLog4j" />
+      <recent name="C:\Users\Karol\Desktop\BACKEND1\008-proyectoLog4j\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a595b306-7f9d-4706-87c1-07c4657e263d" name="Changes" comment="" />
+      <created>1666801963370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666801963370</updated>
+      <workItem from="1666801964637" duration="2349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef651954-c9a2-4499-a9b5-4375f46cdb24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/008-mesa8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consigna" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/008-practicoprofe-clase8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/consigna" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-proyectoLog4j/src/avisos.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-proyectoLog4j/src/src/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../008-proyectoLog4j/src/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008-proyectoLog4j/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-proyectoLog4j/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008-proyectoLog4j/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../008-proyectoLog4j/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008-proyectoLog4j/src/src/TestLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../008-proyectoLog4j/src/src/TestLog" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GgLtSo2eQIA2YOFGlFPY6gKHyv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef651954-c9a2-4499-a9b5-4375f46cdb24" name="Changes" comment="" />
+      <created>1666805494845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666805494845</updated>
+      <workItem from="1666805496168" duration="156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

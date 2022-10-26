@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - dia de estudio  after 7">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/.idea/008-mesa8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/consigna" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-practicoprofe-clase8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-practicoprofe-clase8/.idea/008-practicoprofe-clase8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-practicoprofe-clase8/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-practicoprofe-clase8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-practicoprofe-clase8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-practicoprofe-clase8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-practicoprofe-clase8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-practicoprofe-clase8/consigna" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/avisos.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/src/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-proyectoLog4j/src/src/TestLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-proyectoLog4j/src/src/TestLog" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +113,9 @@
       <workItem from="1666743105597" duration="999000" />
       <workItem from="1666744322134" duration="126000" />
       <workItem from="1666797874793" duration="230000" />
-      <workItem from="1666798906269" duration="216000" />
+      <workItem from="1666798906269" duration="381000" />
+      <workItem from="1666801784836" duration="26000" />
+      <workItem from="1666805656102" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -204,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666798974020</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="COMMIT - dia de estudio  after 7">
+      <created>1666799167470</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666799167470</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
