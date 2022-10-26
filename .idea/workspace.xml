@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - dia de clase 7 junit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - dia de estudio  after 7">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/007-mesa7",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -90,6 +90,7 @@
       <workItem from="1666743105597" duration="999000" />
       <workItem from="1666744322134" duration="126000" />
       <workItem from="1666797874793" duration="230000" />
+      <workItem from="1666798906269" duration="216000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666744437805</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="COMMIT - dia de estudio  after 7">
+      <created>1666798974020</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798974020</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +235,7 @@
     <MESSAGE value="COMMIT - cambios submodulo" />
     <MESSAGE value="COMMIT - CRITICO-cambios ficheros" />
     <MESSAGE value="COMMIT - dia de clase 7 junit" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - dia de clase 7 junit" />
+    <MESSAGE value="COMMIT - dia de estudio  after 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - dia de estudio  after 7" />
   </component>
 </project>
