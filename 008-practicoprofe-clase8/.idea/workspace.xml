@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93434d6a-b059-4cb4-9be9-3b21618469c6" name="Changes" comment="commit - cambio carpeta 08profesor">
-      <change beforePath="$PROJECT_DIR$/.idea/008-practicoprofe-clase8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/008.iml" afterDir="false" />
-    </list>
+    <list default="true" id="93434d6a-b059-4cb4-9be9-3b21618469c6" name="Changes" comment="commit - cambio carpeta 08profesor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-proyectoLog4j",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-mesa8",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
@@ -82,6 +80,7 @@
       <updated>1666886323745</updated>
       <workItem from="1666886324859" duration="1399000" />
       <workItem from="1666891200594" duration="728000" />
+      <workItem from="1666892125710" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="commit - cambio carpeta 00">
       <created>1666887277268</created>
@@ -90,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666887277268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit - cambio carpeta 08profesor">
+      <created>1666892238815</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666892238815</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
