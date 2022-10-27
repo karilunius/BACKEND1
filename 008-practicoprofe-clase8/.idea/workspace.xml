@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93434d6a-b059-4cb4-9be9-3b21618469c6" name="Changes" comment="commit - cambio carpeta 08profesor">
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/ClaseLogueo2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/applog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/log4j.properties.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/src/Leon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/src/Tigre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +31,16 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-practicoprofe-clase8",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Karol/Desktop/BACKEND1/008-practicoprofe-clase8&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Karol\Desktop\BACKEND1\008-\src\src" />
@@ -83,6 +72,7 @@
       <workItem from="1666891200594" duration="728000" />
       <workItem from="1666892125710" duration="155000" />
       <workItem from="1666894051641" duration="70000" />
+      <workItem from="1666905374642" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="commit - cambio carpeta 00">
       <created>1666887277268</created>

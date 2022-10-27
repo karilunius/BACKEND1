@@ -1,0 +1,1 @@
+INFO    2022-10-26 19:10:22,214 [main] com.company.Leon  - El leonMaxi esta corriendo
