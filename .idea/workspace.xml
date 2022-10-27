@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas 8">
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/ClaseLogueo2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/applog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/log4j.properties.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/src/Leon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/src/Tigre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/Actividad2Logueo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/Actividad2Logueo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/out/production/Actividad2Logueo/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/out/production/Actividad2Logueo/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-practicoClaseLogueo/log4j.properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-practicoClaseLogueo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +101,7 @@
       <workItem from="1666801784836" duration="26000" />
       <workItem from="1666805656102" duration="2699000" />
       <workItem from="1666889244085" duration="1133000" />
-      <workItem from="1666891158124" duration="2712000" />
+      <workItem from="1666891158124" duration="3388000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
