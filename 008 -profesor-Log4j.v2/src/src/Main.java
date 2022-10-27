@@ -19,9 +19,15 @@ public class Main {
 
         try{
             leon.esMayora10();
-        }catch{
-            logger.error("la edad del leon llamado:"+leon.getNombre()+"no puede ser menor a 0",e);
+        }catch(Exception e) {
+            logger.error("la edad del leon llamado:" + leon.getNombre() + "no puede ser menor a 0", e);
         }
+
+
+        List<Tigre> tigreList = new ArrayList<Tigre>();
+        tigre.List.add(new Tigre("Maxi",15,true));
+
+
 
     }
 }
