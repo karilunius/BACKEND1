@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93434d6a-b059-4cb4-9be9-3b21618469c6" name="Changes" comment="commit - cambio carpeta 00">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-mesa5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../005-mesa5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../global.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../global.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proyecto_integrador" beforeDir="false" afterPath="$PROJECT_DIR$/../proyecto_integrador" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

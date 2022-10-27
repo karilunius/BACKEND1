@@ -68,3 +68,11 @@
 *.zip
 *.tar
 *.wim
+
+
+/lib/
+*.jar
+
+
+/proyecto_integrador/
+/C:\Users\Karol\Desktop\BACKEND1\proyecto_integrador/

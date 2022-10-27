@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpeta 005">
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas en mesa5">
+      <change afterPath="$PROJECT_DIR$/proyecto_integrador/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005-mesa5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/global.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto_integrador" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_integrador" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto_integrador/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto_integrador/.idea/.gitignore" beforeDir="false" />
@@ -62,6 +66,19 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PersonaTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="005-ejemplo-proxy-internet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="005-ejemplo-proxy-internet" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -294,6 +311,7 @@
     <MESSAGE value="COMMIT - dia de clase 7 junit" />
     <MESSAGE value="COMMIT - dia de estudio  after 7" />
     <MESSAGE value="COMMIT - CRITICO cambio de archivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - CRITICO cambio de archivos" />
+    <MESSAGE value="COMMIT - carpetas en mesa5" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - carpetas en mesa5" />
   </component>
 </project>
