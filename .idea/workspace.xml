@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas CRITICOmesa5">
-      <change beforePath="$PROJECT_DIR$/008-/.idea/008-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/008-/.idea/008-practicoprofe-clase8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/008-/src/src.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-/src/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-/src/sin-test/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-/src/src/Leon.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-/src/sin-test/Leon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-/src/sin-test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-/src/src/Tigre.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-/src/sin-test/Tigre.java" afterDir="false" />
-    </list>
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas CRITICOmesa5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-practicoprofe-clase8",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -99,7 +92,7 @@
       <workItem from="1666801784836" duration="26000" />
       <workItem from="1666805656102" duration="2699000" />
       <workItem from="1666889244085" duration="1133000" />
-      <workItem from="1666891158124" duration="441000" />
+      <workItem from="1666891158124" duration="1085000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
