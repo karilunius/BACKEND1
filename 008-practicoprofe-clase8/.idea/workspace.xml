@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93434d6a-b059-4cb4-9be9-3b21618469c6" name="Changes" comment="commit - cambio carpeta 00">
-      <change beforePath="$PROJECT_DIR$/.idea/008-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/008-practicoprofe-clase8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sin-test/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sin-test/Leon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sin-test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Tigre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sin-test/Tigre.java" afterDir="false" />
+    <list default="true" id="93434d6a-b059-4cb4-9be9-3b21618469c6" name="Changes" comment="commit - cambio carpeta 08profesor">
+      <change beforePath="$PROJECT_DIR$/.idea/008-practicoprofe-clase8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/008.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +54,13 @@
       </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="008-practicoprofe-clase8" />
+      <module name="008" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="008-practicoprofe-clase8" />
+      <module name="008" />
       <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666886323745</updated>
       <workItem from="1666886324859" duration="1399000" />
-      <workItem from="1666891200594" duration="398000" />
+      <workItem from="1666891200594" duration="728000" />
     </task>
     <task id="LOCAL-00001" summary="commit - cambio carpeta 00">
       <created>1666887277268</created>
@@ -114,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit - cambio carpeta 00" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit - cambio carpeta 00" />
+    <MESSAGE value="commit - cambio carpeta 08profesor" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit - cambio carpeta 08profesor" />
   </component>
 </project>
