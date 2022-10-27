@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas 8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/Actividad2Logueo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/Actividad2Logueo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/out/production/Actividad2Logueo/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/out/production/Actividad2Logueo/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-practicoClaseLogueo/log4j.properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-practicoClaseLogueo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/src/Main.java" afterDir="false" />
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas 27 oct">
+      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/009-practicoh2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-practicoClaseLogueo",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/009-practicoh2",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -101,7 +98,7 @@
       <workItem from="1666801784836" duration="26000" />
       <workItem from="1666805656102" duration="2699000" />
       <workItem from="1666889244085" duration="1133000" />
-      <workItem from="1666891158124" duration="3388000" />
+      <workItem from="1666891158124" duration="4328000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -299,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666893640222</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="COMMIT - carpetas 27 oct">
+      <created>1666894764622</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1666894764622</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +340,7 @@
     <MESSAGE value="COMMIT - carpetas CRITICO" />
     <MESSAGE value="COMMIT - carpetas CRITICOmesa5" />
     <MESSAGE value="COMMIT - carpetas 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - carpetas 8" />
+    <MESSAGE value="COMMIT - carpetas 27 oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - carpetas 27 oct" />
   </component>
 </project>
