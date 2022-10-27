@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65bd6c47-ba81-4dd4-9f86-b8950b268e30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/008-mesa8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/Actividad2Logueo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/applog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/out/production/Actividad2Logueo/Lista.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/out/production/Actividad2Logueo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/src/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad2Logueo/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65bd6c47-ba81-4dd4-9f86-b8950b268e30" name="Changes" comment="commit - mesa 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +9,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GjBnhxaXCBwFwLeIKQreKY76ef" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -55,8 +38,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666892281360</updated>
-      <workItem from="1666892282475" duration="89000" />
+      <workItem from="1666892282475" duration="138000" />
     </task>
+    <task id="LOCAL-00001" summary="commit - mesa 8">
+      <created>1666892393401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666892393401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit - mesa 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit - mesa 8" />
   </component>
 </project>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas CRITICOmesa5" />
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas 8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-mesa8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-practicoprofe-clase8",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-practicoClaseLogueo",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -92,7 +95,7 @@
       <workItem from="1666801784836" duration="26000" />
       <workItem from="1666805656102" duration="2699000" />
       <workItem from="1666889244085" duration="1133000" />
-      <workItem from="1666891158124" duration="1085000" />
+      <workItem from="1666891158124" duration="2254000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -276,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666891171085</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="COMMIT - carpetas 8">
+      <created>1666892263329</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1666892263329</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +322,7 @@
     <MESSAGE value="COMMIT - carpetas en mesa5" />
     <MESSAGE value="COMMIT - carpetas CRITICO" />
     <MESSAGE value="COMMIT - carpetas CRITICOmesa5" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - carpetas CRITICOmesa5" />
+    <MESSAGE value="COMMIT - carpetas 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - carpetas 8" />
   </component>
 </project>
