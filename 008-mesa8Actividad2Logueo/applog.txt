@@ -1,0 +1,6 @@
+INFO    2022-10-26 19:53:38,152 [main] Lista  - El promedio es 2
+INFO    2022-10-26 19:54:18,668 [main] Lista  - La longitud de la lista es mayor a 5
+INFO    2022-10-26 19:54:18,732 [main] Lista  - El promedio es 1
+INFO    2022-10-26 19:55:53,858 [main] Lista  - La longitud de la lista es mayor a 5
+INFO    2022-10-26 19:55:53,900 [main] Lista  - El promedio es 1
+ERROR   2022-10-26 19:55:53,900 [main] Lista  - La lista es igual a cero

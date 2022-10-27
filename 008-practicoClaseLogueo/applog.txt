@@ -1,0 +1,15 @@
+INFO    2022-10-26 19:08:39,040 [main] Leon  - El león Simba está corriendo
+INFO    2022-10-26 19:08:39,063 [main] Leon  - El leon Simba es mayor a 10 y es alfa
+INFO    2022-10-26 19:10:14,504 [main] Leon  - El león Simba está corriendo
+INFO    2022-10-26 19:10:33,405 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-26 19:10:33,438 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-26 19:20:08,968 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-26 19:20:08,987 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-26 19:21:03,475 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-26 19:21:03,483 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-26 19:21:57,160 [main] Leon  - El león Simba está corriendo
+INFO    2022-10-26 19:21:57,164 [main] Leon  - El leon Simba es mayor a 10 y es alfa
+INFO    2022-10-26 19:21:57,167 [main] Tigre  - El tigre Simba está corriendo
+ERROR   2022-10-26 19:21:57,168 [main] Tigre  - La edad no puede ser menor a 0
+INFO    2022-10-26 19:26:00,565 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-26 19:26:00,570 [main] Leon  - La edad no puede ser menor a 0
