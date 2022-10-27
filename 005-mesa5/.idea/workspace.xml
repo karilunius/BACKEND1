@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7258053-4588-44cc-a366-8f110c6d4797" name="Changes" comment="commit -RAMA-MESA5-proxy actividad">
-      <change beforePath="$PROJECT_DIR$/consigna" beforeDir="false" afterPath="$PROJECT_DIR$/consignamesa5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_10_2022_11_40_a__m___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_10_2022_11_40_a__m___Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008-/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +105,7 @@
       <workItem from="1666543123970" duration="2096000" />
       <workItem from="1666623675176" duration="648000" />
       <workItem from="1666637586964" duration="1908000" />
-      <workItem from="1666888280596" duration="79000" />
+      <workItem from="1666888280596" duration="407000" />
     </task>
     <task id="LOCAL-00001" summary="commit - CREACION DE RAMA MESA5-proxyview">
       <created>1666465742439</created>
@@ -133,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666545211554</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit -RAMA-MESA5-proxy actividad">
+      <created>1666888369526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666888369526</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
