@@ -9,7 +9,7 @@ public class Main {
         PropertyConfigurator.configure(log4jfile.getAbsolutePath());
 
         Leon leon = new Leon("Simba", -9, true);
-
+        Leon leon1 = new Leon("Simba", 9, true);
         leon.correr();
         leon.esMayorA10();
 
@@ -17,5 +17,17 @@ public class Main {
 
         tigre.correr();
         tigre.esMayorA10();
+
+        try {
+            leon1.esMayorA10();
+            tigre.esMayorA10();
+        } catch (Exception e) {
+            logger.error("Edad no debe ser 0", e);
+        } finally {
+            System.out.println("Terminado del codigo");
+        }
+
+
     }
+
 }

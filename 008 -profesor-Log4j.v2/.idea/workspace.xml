@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ae1a14b-e088-42fa-8c6d-5b21b2dec2e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008 -profesor-Log4j.v2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log4j.v2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/Leon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/Main.java" afterDir="false" />
+    <list default="true" id="1ae1a14b-e088-42fa-8c6d-5b21b2dec2e4" name="Changes" comment="commit - logj4">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +31,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/LOG4J/apache-log4j-1.2.17/log4j-1.2.17.jar",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-mesa8Actividad2Logueo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -81,8 +68,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666905474782</updated>
-      <workItem from="1666905477785" duration="810000" />
+      <workItem from="1666905477785" duration="2899000" />
     </task>
+    <task id="LOCAL-00001" summary="commit - logj4">
+      <created>1666906410103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666906410103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit - logj4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit - logj4" />
   </component>
 </project>

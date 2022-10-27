@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0e922d8-2290-4ab2-93dd-85e26e36a596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/FiguraGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/FiguraGometricaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/007-mesa7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/007-mesa7-junit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008 -profesor-Log4j.v2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008 -profesor-Log4j.v2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-practicoClaseLogueo",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
@@ -74,6 +70,7 @@
       <updated>1666744205030</updated>
       <workItem from="1666744207073" duration="113000" />
       <workItem from="1666798110142" duration="781000" />
+      <workItem from="1666909055788" duration="658000" />
     </task>
     <servers />
   </component>

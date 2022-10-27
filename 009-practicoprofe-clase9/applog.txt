@@ -1,0 +1,82 @@
+
+INFO    2022-10-27 17:35:10,589 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:36:16,290 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:37:21,472 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:38:21,529 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:38:56,361 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:39:57,117 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:40:32,821 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:41:07,187 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:43:26,882 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:43:41,551 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:48:14,068 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:49:06,512 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:50:29,950 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:50:55,116 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 17:58:45,105 [main] com.company.Leon  - El leon Maxi esta corriendo
+INFO    2022-10-27 18:17:36,945 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:17:37,068 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:17:37,069 [main] com.company.Main  - La edad no puede ser menos a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 18:19:09,803 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:19:09,823 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:19:09,827 [main] com.company.Main  - La edad no puede ser menos a 0Maxi
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 18:20:21,002 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:20:21,008 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:20:21,010 [main] com.company.Main  - La edad del leon llamado: Maxi no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 18:21:26,894 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:21:26,899 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:21:26,993 [main] com.company.Main  - La edad: -1 del leon llamado: Maxi no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 18:37:30,271 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:37:30,274 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:37:30,306 [main] com.company.Main  - La edad: -1 del leon llamado: Maxi no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 18:38:20,817 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:38:20,820 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:38:20,895 [main] com.company.Main  - La edad: -1 del leon llamado: Maxi no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 18:40:03,420 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:40:03,444 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:40:03,484 [main] com.company.Main  - La edad: -1 del leon llamado: Maxi no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 18:41:46,636 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:41:46,639 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:41:46,705 [main] com.company.Main  - La edad: -1 del leon llamado: Maxi no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 18:42:49,826 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:42:49,829 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:42:49,862 [main] com.company.Main  - La edad: -1 del leon llamado: Maxi no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 18:43:16,994 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 18:43:16,998 [main] com.company.Leon  - error
+ERROR   2022-10-27 18:43:17,056 [main] com.company.Main  - La edad: -1 del leon llamado: Maxi no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
+INFO    2022-10-27 17:51:24,493 [main] com.company.Leon  - El leon Maxi esta corriendo
+ERROR   2022-10-27 17:51:24,496 [main] com.company.Leon  - error
+ERROR   2022-10-27 17:51:24,524 [main] com.company.Main  - La edad: -1 del leon llamado: Maxi no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at com.company.Leon.esMayora10(Leon.java:50)
+	at com.company.Main.main(Main.java:25)
