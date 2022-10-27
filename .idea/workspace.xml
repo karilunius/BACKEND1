@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - CRITICO cambio de archivos" />
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - CRITICO cambio de archivos">
+      <change afterPath="$PROJECT_DIR$/008-/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-/consigna" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-/src/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/008-/src/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666886374466</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="COMMIT - CRITICO cambio de archivos">
+      <created>1666886668853</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666886668853</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
