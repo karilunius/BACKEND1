@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93434d6a-b059-4cb4-9be9-3b21618469c6" name="Changes" comment="commit - cambio carpeta 00">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-mesa5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../005-mesa5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../global.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../global.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proyecto_integrador" beforeDir="false" afterPath="$PROJECT_DIR$/../proyecto_integrador" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/008-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/008-practicoprofe-clase8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sin-test/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sin-test/Leon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sin-test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Tigre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sin-test/Tigre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +35,16 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Karol/Desktop/BACKEND1/005-practicoprofe-clase5&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-proyectoLog4j",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Karol\Desktop\BACKEND1\008-\src\src" />
@@ -53,6 +54,19 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="008-practicoprofe-clase8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="008-practicoprofe-clase8" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666886323745</updated>
       <workItem from="1666886324859" duration="1399000" />
+      <workItem from="1666891200594" duration="398000" />
     </task>
     <task id="LOCAL-00001" summary="commit - cambio carpeta 00">
       <created>1666887277268</created>
