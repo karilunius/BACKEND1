@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41c12b25-6bf4-4aa2-9444-6190a0a39c57" name="Changes" comment="commit - mesa 8">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../008-mesa8Actividad2Logueo/Actividad2Logueo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-mesa8Actividad2Logueo/Actividad2Logueo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../008-mesa8Actividad2Logueo/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../008-mesa8Actividad2Logueo/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../008-mesa8Actividad2Logueo/out/production/Actividad2Logueo/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../008-mesa8Actividad2Logueo/out/production/Actividad2Logueo/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j.properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="41c12b25-6bf4-4aa2-9444-6190a0a39c57" name="Changes" comment="commit - mesa 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666818570506</updated>
       <workItem from="1666892726462" duration="1598000" />
-      <workItem from="1666894468951" duration="92000" />
+      <workItem from="1666894468951" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="commit - mesa 8">
       <created>1666894290975</created>
@@ -68,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666894290975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit - mesa 8">
+      <created>1666894682552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666894682552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
