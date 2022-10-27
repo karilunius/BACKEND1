@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas 27 oct">
-      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/009-practicoh2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009-practicoh2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-ejemploplayclase9/consigna9-play" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-ejemploplayclase9/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-ejemploplayclase9/src/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemploplayclase9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/009-ejemploplayclase9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemploplayclase9/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/009-ejemploplayclase9/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-ejemploplayclase9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/009-ejemploplayclase9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +100,7 @@
       <workItem from="1666801784836" duration="26000" />
       <workItem from="1666805656102" duration="2699000" />
       <workItem from="1666889244085" duration="1133000" />
-      <workItem from="1666891158124" duration="4328000" />
+      <workItem from="1666891158124" duration="4925000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
