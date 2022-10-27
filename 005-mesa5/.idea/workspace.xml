@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7258053-4588-44cc-a366-8f110c6d4797" name="Changes" comment="commit -RAMA-MESA5-proxy actividad">
-      <change afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Documento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Documento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/DriveService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/DriveService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/out/production/src/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Documento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Documento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/DriveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/DriveService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/src/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consigna" beforeDir="false" afterPath="$PROJECT_DIR$/consignamesa5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../005-practicoprofe-clase5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +53,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/006-ejemplopatronFlyweight",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/005-mesa5",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -109,6 +103,7 @@
       <workItem from="1666543123970" duration="2096000" />
       <workItem from="1666623675176" duration="648000" />
       <workItem from="1666637586964" duration="1908000" />
+      <workItem from="1666888280596" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="commit - CREACION DE RAMA MESA5-proxyview">
       <created>1666465742439</created>

@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38323ead-9b08-4599-9ec3-e96b6f0c919e" name="Changes" comment="commit-practico PROFESOR MESA5 - sin proxy">
-      <change afterPath="$PROJECT_DIR$/ProfeProxy/PProxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/.idea/006-ejemplopatronFlyweight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/006-mesa6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/consigna" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/src/src/Arbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-mesa6/src/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-practicoprofe-clase6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-practicoprofe-clase6/.idea/006-practicoprofe-clase6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-practicoprofe-clase6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-practicoprofe-clase6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-practicoprofe-clase6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-practicoprofe-clase6/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-practicoprofe-clase6/src/src/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-practicoprofe-clase6/src/src/FlyweightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../006-practicoprofe-clase6/src/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/Documento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/Documento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/DriveService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/DriveService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Documento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Documento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/DriveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/DriveService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/ComidaFlyweight/src/digital/house/flyweigth/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../006-ejemplopatronFlyweight/ComidaFlyweight/src/digital/house/flyweigth/Application.java" afterDir="false" />
-    </list>
+    <list default="true" id="38323ead-9b08-4599-9ec3-e96b6f0c919e" name="Changes" comment="commit-practico PROFESOR MESA5 - sin proxy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/006-practicoprofe-clase6",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/005-mesa5",
     "settings.editor.selected.configurable": "editor.reader.mode"
   }
 }]]></component>
@@ -119,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666634496578</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit-practico PROFESOR MESA5 - sin proxy">
+      <created>1666888222941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666888222941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
