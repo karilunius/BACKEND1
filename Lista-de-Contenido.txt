@@ -1,17 +1,43 @@
 SEMANA 1
 
-DIA 1 - Facade
+DIA 1 - Facade  001
 Mesa 1 -- Servicio de hotel y vuelo 
-Practica de clase 1-- Retiro dinero en cajero
+Practica de clase 1-- Cuenta bancaria service
 Ejemplo 001 - servicio compra-almacen-tarjeta
-DIA 2 - Template method
-DIA 3 - Completó ejercicio de mesa 2 - PAGOS
-DIA 4 - Cadena de responsabilidad
-DIA 5 - Proxy
+Ejemplos 001 - servicio mobile facade(online)
+
+DIA 2 - Template method  002
+Ejemplo 002 - pizzeria -pasos
+Practica de clase 2-- pagos: sistema tarjeta credito y debito
+Mesa 2 -- Menu vegetariano-clasico-infantil
+Integrador 1 -- 2 retos (no realizado)
+
+DIA 3 - 003
+Completó ejercicio de mesa 2 - Pagos
+
+DIA 4 - 004  Cadena de responsabilidad
+Ejemplo 004-Director ejecutivo gerente
+Mesa 4 --Calidad de lote peso envase
+Practica de clase 4--Ministro diputado presidente
+
+
+DIA 5 - 005 Proxy
+Ejemplo 005-proxy universidad
+Practica de clase 5-- Descarga doc con usuario lista
+Mesa 5 -- SpotifyService
+Integrador 2 --(no realizado)
+
 
 SEMANA 2
 
-DIA 6 - Patrón Flyweight
+DIA 6 - 006   Patrón Flyweight
+Ejemplo 006--recetas de varios tipos
+Practica de clase 6 -Crear circulos  + (crear lista de reproduccion-n)
+Mesa 6--crearBosque
+
+
+
+
 DIA 7 - JUnit practico(nombre) + mesa(circulo)
 DIA 8 -
 DIA 9 -Dudas con listas, instalacion .jar junit 
