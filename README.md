@@ -1,5 +1,9 @@
 # BACKEND1
 laughing-happiness
+* Revisar lista de contenido para más datos.
+* uso skd 19 o 18
+* uso de librerias junit log4j 
+* base datos h2 
 
 SEMANA 1 
 
@@ -12,7 +16,8 @@ DIA 5 - Proxy
 SEMANA 2 
 
 DIA 6 - Patrón Flyweight\
-DIA 7 - JUnit practico(nombre) + mesa(circulo)\
-DIA 8 -\
-DIA 9 -\
+DIA 7 - JUnit  \
+DIA 8 -  Junit\
+DIA 9 - Junit\
 DIA 10-
+
