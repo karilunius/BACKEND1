@@ -1,0 +1,38 @@
+INFO    2022-10-26 19:08:39,040 [main] Leon  - El león Simba está corriendo
+INFO    2022-10-26 19:08:39,063 [main] Leon  - El leon Simba es mayor a 10 y es alfa
+INFO    2022-10-26 19:10:14,504 [main] Leon  - El león Simba está corriendo
+INFO    2022-10-26 19:10:33,405 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-26 19:10:33,438 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-26 19:20:08,968 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-26 19:20:08,987 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-26 19:21:03,475 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-26 19:21:03,483 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-26 19:21:57,160 [main] Leon  - El león Simba está corriendo
+INFO    2022-10-26 19:21:57,164 [main] Leon  - El leon Simba es mayor a 10 y es alfa
+INFO    2022-10-26 19:21:57,167 [main] Tigre  - El tigre Simba está corriendo
+ERROR   2022-10-26 19:21:57,168 [main] Tigre  - La edad no puede ser menor a 0
+INFO    2022-10-26 19:26:00,565 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-26 19:26:00,570 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-27 19:33:08,002 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-27 19:33:08,005 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-27 19:33:42,555 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-27 19:33:42,557 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-27 19:35:23,407 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-27 19:35:23,414 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-27 19:36:24,005 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-27 19:36:24,019 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-27 19:37:05,722 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-27 19:37:05,753 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-27 19:45:03,174 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-27 19:45:03,182 [main] Leon  - La edad no puede ser menor a 0
+INFO    2022-10-27 19:48:01,092 [main] Leon  - El león Simba está corriendo
+ERROR   2022-10-27 19:48:01,096 [main] Leon  - La edad no puede ser menor a 0
+ERROR   2022-10-27 19:48:01,097 [main] Main  - La edad no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at Leon.esMayorA10(Leon.java:52)
+	at Main.main(Main.java:15)
+INFO    2022-10-27 19:48:01,101 [main] Tigre  - El tigre Simba está corriendo
+ERROR   2022-10-27 19:48:01,102 [main] Main  - La edad no puede ser menor a 0
+java.lang.Exception: La edad no puede ser menor a 0
+	at Tigre.esMayorA10(Tigre.java:50)
+	at Main.main(Main.java:25)

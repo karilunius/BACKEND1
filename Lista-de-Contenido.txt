@@ -52,14 +52,14 @@ Practica de clase8 -codigo de profesor (Leon Main)+mi codigo inactivo Leon
 008 practicoClaseLogueo - codigo de resolucion de leon con junit
 008 resolucion MesaClaseLoqueo 
 Mesa8 --Lista con junit (no completado)
-
 Integrador 3- (no realizado)
 
 
-
-
-
-DIA 9 -Dudas con listas, instalacion .jar junit 
-
+DIA 9 - 009 junit 
+Dudas con listas, instalacion .jar junit 
+Explicacion examen
+Practica de clase profesor - Leon Tigre (completado)
+Mesa 9 - circulo cuadrado junit test(junitactividad) y leon tigre resuelto(claselogueo)
+ 
 
 DIA 10-
