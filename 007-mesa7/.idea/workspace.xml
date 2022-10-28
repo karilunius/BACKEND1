@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b0e922d8-2290-4ab2-93dd-85e26e36a596" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../008 -profesor-Log4j.v2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008 -profesor-Log4j.v2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista-de-Contenido.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lista-de-Contenido.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-practicoClaseLogueo",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/007-mesa7",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
@@ -71,6 +71,7 @@
       <workItem from="1666744207073" duration="113000" />
       <workItem from="1666798110142" duration="781000" />
       <workItem from="1666909055788" duration="658000" />
+      <workItem from="1666970938605" duration="413000" />
     </task>
     <servers />
   </component>

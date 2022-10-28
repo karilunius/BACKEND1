@@ -2,64 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas semana 1">
-      <change afterPath="$PROJECT_DIR$/001-ejemplosFacade/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002 -integrador template method -n/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002 -integrador template method -n/.idea/002 -integrador template method -n.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002 -integrador template method -n/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002 -integrador template method -n/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002 -integrador template method -n/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002 -integrador template method -n/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002 -integrador template method -n/ConsignaIntegrador1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003-practicoprofe-clase3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003-practicoprofe-clase3/.idea/003-practicoprofe-clase3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003-practicoprofe-clase3/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003-practicoprofe-clase3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003-practicoprofe-clase3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003-practicoprofe-clase3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-ejemplo-proxy-internet/consignaEjemploproxy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-integrador 2 -n/.idea/005-integrador 2 -n.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-integrador 2 -n/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-integrador 2 -n/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-integrador 2 -n/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005-integrador 2 -n/consignaIntegrador 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006-ejemplopatronFlyweight/consignaejemplo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006-mesa6/ejemplo-Solucion/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006-mesa6/ejemplo-Solucion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006-mesa6/ejemplo-Solucion/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006-mesa6/ejemplo-Solucion/CLASE-7-FLYWEIGHT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006-mesa6/ejemplo-Solucion/src/Arbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006-mesa6/ejemplo-Solucion/src/FactoryArbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006-mesa6/ejemplo-Solucion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-integrador3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-integrador3/.idea/008-integrador3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-integrador3/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-integrador3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-integrador3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-integrador3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-integrador3/consignaIntegrador3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8/consigna mesa8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-mesa8Actividad2Logueo/consigna mesa8.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/002-mesa2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/002-mesa2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002-practicoprofe-clase2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/002-practicoprofe-clase2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-mesa3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-mesa3/.idea/004-practicoresolucionMenu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-mesa3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-mesa3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-mesa3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-mesa3/consigna" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-mesa3/src/src.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-mesa4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/004-mesa4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-practicoprofe-clase4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/004-practicoprofe-clase4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesa5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/005-mesa5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesaExtra/.idea/005-mesaExtra.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesaExtra/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesaExtra/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-mesaExtra/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005-practicoprofe-clase5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/005-practicoprofe-clase5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-ejemplopatronFlyweight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/006-ejemplopatronFlyweight/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-mesa6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/006-mesa6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-mesa6/CLASE-7-FLY/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-mesa6/CLASE-7-FLY/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-mesa6/CLASE-7-FLY/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-mesa6/CLASE-7-FLY/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-mesa6/CLASE-7-FLY/CLASE-7-FLYWEIGHT.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-mesa6/CLASE-7-FLY/src/Arbol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-mesa6/CLASE-7-FLY/src/FactoryArbol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-mesa6/CLASE-7-FLY/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/006-practicoprofe-clase6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/006-practicoprofe-clase6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002 -integrador template method -n/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002 -integrador template method -n/.idea/002 -integrador template method -n.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002 -integrador template method -n/.idea/dictionaries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002 -integrador template method -n/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002 -integrador template method -n/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002 -integrador template method -n/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002 -integrador template method -n/ConsignaIntegrador1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/007-mesa7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/007-mesa7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008 -profesor-Log4j.v2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008 -profesor-Log4j.v2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-mesa8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-mesa8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008-practicoprofe-clase8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoprofe-clase8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lista-de-Contenido.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lista-de-Contenido.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/001-mesa1",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-integrador3",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -153,7 +118,7 @@
       <workItem from="1666805656102" duration="2699000" />
       <workItem from="1666889244085" duration="1133000" />
       <workItem from="1666891158124" duration="5494000" />
-      <workItem from="1666966916449" duration="1465000" />
+      <workItem from="1666966916449" duration="2967000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -365,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666968359970</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="COMMIT - carpetas semana 1">
+      <created>1666970911260</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970911260</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

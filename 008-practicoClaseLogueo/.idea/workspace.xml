@@ -6,11 +6,10 @@
       <change beforePath="$PROJECT_DIR$/../007-mesa7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-mesa7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../008 -profesor-Log4j.v2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008 -profesor-Log4j.v2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008-mesa8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-mesa8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avisos.log" beforeDir="false" afterPath="$PROJECT_DIR$/avisos.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClaseLogueo2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClaseLogueo2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista-de-Contenido.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lista-de-Contenido.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
       <workItem from="1666892726462" duration="1598000" />
       <workItem from="1666894468951" duration="277000" />
       <workItem from="1666909722188" duration="676000" />
+      <workItem from="1666971447953" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="commit - mesa 8">
       <created>1666894290975</created>

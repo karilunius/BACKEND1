@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="93434d6a-b059-4cb4-9be9-3b21618469c6" name="Changes" comment="commit - cambio carpeta 08profesor">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../007-mesa7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-mesa7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista-de-Contenido.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lista-de-Contenido.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +75,7 @@
       <workItem from="1666892125710" duration="155000" />
       <workItem from="1666894051641" duration="70000" />
       <workItem from="1666905374642" duration="27000" />
+      <workItem from="1666971449369" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="commit - cambio carpeta 00">
       <created>1666887277268</created>

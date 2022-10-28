@@ -30,15 +30,36 @@ Integrador 2 --(no realizado)
 
 SEMANA 2
 
+(se habla de practico 5clase finalizado)
 DIA 6 - 006   Patrón Flyweight
 Ejemplo 006--recetas de varios tipos
-Practica de clase 6 -Crear circulos  + (crear lista de reproduccion-n)
+Practica de clase 6 -Crear circulos(live coding) + (crear lista de reproduccion-n)
 Mesa 6--crearBosque
 
 
+DIA 7 - 007 JUnit  
+Practica de clase7-PersonaTest 
+Mesa 7 --Circulo y area(no se realizó en mesa)
+
+DIA 8 - 008 junit
+Practico-Leon
+Mesa -lista elementos promedio
+
+(se reviso finalizado de practica Persona)
+proyectoLog 008 - ejemplo livecoding calculadora playground
+Practica de clase8 -codigo de profesor (Leon Main)+mi codigo inactivo Leon
+008 Profesor - codigo de la practica de clase Leon 
+008 practicoClaseLogueo - codigo de resolucion de leon con junit
+008 resolucion MesaClaseLoqueo 
+Mesa8 --Lista con junit (no completado)
+
+Integrador 3- (no realizado)
 
 
-DIA 7 - JUnit practico(nombre) + mesa(circulo)
-DIA 8 -
+
+
+
 DIA 9 -Dudas con listas, instalacion .jar junit 
+
+
 DIA 10-

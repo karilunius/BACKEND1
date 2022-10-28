@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1ae1a14b-e088-42fa-8c6d-5b21b2dec2e4" name="Changes" comment="commit - logj4">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../009-ejemploplayclase9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../007-mesa7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-mesa7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista-de-Contenido.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lista-de-Contenido.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-mesa8Actividad2Logueo",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008 -profesor-Log4j.v2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -69,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666905474782</updated>
       <workItem from="1666905477785" duration="2899000" />
+      <workItem from="1666971455014" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="commit - logj4">
       <created>1666906410103</created>
