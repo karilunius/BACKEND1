@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas 27 oct" />
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas 27 oct">
+      <change afterPath="$PROJECT_DIR$/001 -ejemploFacade-ejercicio-compras/consignaEjemplo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001-mesa1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/001-mesa1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001-mesa1/Consign" beforeDir="false" afterPath="$PROJECT_DIR$/001-mesa1/Consigna MESA1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001-practicoprofe-clase1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/001-practicoprofe-clase1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001-practicoprofe-clase1/consigna" beforeDir="false" afterPath="$PROJECT_DIR$/001-practicoprofe-clase1/consigna-practico1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/ejemplo template method" beforeDir="false" afterPath="$PROJECT_DIR$/002-Templatemethodejemplo-cocinero/ejemplo template method" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/002-ejemplosFacade/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/002-ejemplosFacade.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/Ejemplo de ejercicio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/Facade/ejemplo1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/Facade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/Blackberry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/Ejemplo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/MobileShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/Samsung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/ShopKeeper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/ejemplo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/facadeuml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/ejemplo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo1/out/production/ejemplo1/ejemplo1/facadeuml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/Acelerador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/Ejemplo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/Embrague.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/Fachada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/IAcelerador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/IEmbrague.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/IPalancaCambios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo2/PalancaCambios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/Bateria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/CPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/FacadeMovil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/Movil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/ServicioGPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/ServicioMovil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-ejemplosFacade/out/production/002-ejemplosFacade/ejemplo3/ServicioWIFI.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +86,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/009-practicoprofe-clase9",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/001-mesa1",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -92,7 +146,8 @@
       <workItem from="1666801784836" duration="26000" />
       <workItem from="1666805656102" duration="2699000" />
       <workItem from="1666889244085" duration="1133000" />
-      <workItem from="1666891158124" duration="5470000" />
+      <workItem from="1666891158124" duration="5494000" />
+      <workItem from="1666966916449" duration="806000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>

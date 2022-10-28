@@ -1,0 +1,18 @@
+SEMANA 1
+
+DIA 1 - Facade
+Mesa 1 -- Servicio de hotel y vuelo 
+Practica de clase 1-- Retiro dinero en cajero
+Ejemplo 001 - servicio compra-almacen-tarjeta
+DIA 2 - Template method
+DIA 3 - Completó ejercicio de mesa 2 - PAGOS
+DIA 4 - Cadena de responsabilidad
+DIA 5 - Proxy
+
+SEMANA 2
+
+DIA 6 - Patrón Flyweight
+DIA 7 - JUnit practico(nombre) + mesa(circulo)
+DIA 8 -
+DIA 9 -Dudas con listas, instalacion .jar junit 
+DIA 10-

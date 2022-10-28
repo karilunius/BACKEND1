@@ -1,4 +1,4 @@
-¿Estás listo para un desafío?  PLAYGROUND
+¿Estás listo para un desafío?  PLAYGROUND dia 1
 Patron facade
 Imaginate que tenés que aplicar el patrón facade en un sistema para retirar dinero en el cajero.
 Contás con tres servicios (subsistemas) disponibles para usar: uno se encargará de la autenticación

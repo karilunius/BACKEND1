@@ -1,0 +1,17 @@
+Veamos un ejemplo del patrón haciendo una analogía con un ejemplo de la vida real.
+Pensemos en una pizzería y en el proceso de preparar diferentes tipos de pizzas.
+Intentemos identificar los pasos que un cocinero debe realizar para cocinar y entregar una pizza.
+ Podrían ser:
+
+ -preparar masa
+ -precocinar la masa
+ -preparar los ingredientes
+ -agregar los ingredientes
+ -cocinar la pizza
+ -empaquetar la pizza
+ppt
+ https://docs.google.com/presentation/d/10mvynVkMhoFq2CRMAgunPLPHzzHRlKvknUo_NoYb9Pc/edit#slide=id.gd75b7ae092_0_0
+
+ codigo
+
+

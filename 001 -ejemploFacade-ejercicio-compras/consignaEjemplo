@@ -1,0 +1,9 @@
+Ahora imaginemos una implementación...
+Supongamos que tenemos que diseñar un sistema para un e-commerce.
+Nuestro cliente nos pide que al momento de efectuar la venta del producto,
+nuestro sistema debería realizar una serie de pasos, por ejemplo:
+pedir el producto al almacén, acreditar el pago y enviar el pedido.
+Veamos cómo podemos resolver este problema aplicando este patrón.
+
+
+https://docs.google.com/presentation/d/1aR1dREMy2RTSa4R2pY8ewhZ9SnvO0clr9VOfotTn6SA/edit#slide=id.gb6a1cedf3d_0_2
