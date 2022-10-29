@@ -2,8 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas semana 2">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-mesa9/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-practicoprofe-clase9/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-practicoprofe-clase9/consigna dia9playground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-ejemploplayclase10/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-ejemploplayclase10/consigna9-play" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-ejemploplayclase10/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-ejemploplayclase10/src/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-mesa10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-mesa10/.idea/010-mesa10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-mesa10/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-mesa10/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-mesa10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-mesa10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-mesa10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-mesa10/consigna mesa10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-practicoh2/.idea/010-practicoh2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-practicoh2/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-practicoprofe-clase10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-practicoprofe-clase10/.idea/010-practicoprofe-clase10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-practicoprofe-clase10/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-practicoprofe-clase10/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-practicoprofe-clase10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-practicoprofe-clase10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-practicoprofe-clase10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD/010-proyectoBD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD/untitled/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD/untitled/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD/untitled/010-proyectoBD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD/untitled/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BACKEND1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BACKEND1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-mesa9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/009-mesa9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/.idea/009-ejemploplayclase9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/.idea/dictionaries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/consigna9-play" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/out/production/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/src/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-ejemploplayclase9/src/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-practicoh2/.idea/009-practicoh2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/010-ejemploplayclase10/.idea/009-ejemploplayclase9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-practicoh2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/010-practicoh2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-practicoh2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/010-practicoh2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-practicoh2/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/010-practicoh2/src/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-practicoh2/src/src/Testlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/010-practicoh2/src/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/global.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +88,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-integrador3",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/009-practicoprofe-clase9",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -96,7 +149,9 @@
       <workItem from="1666805656102" duration="2699000" />
       <workItem from="1666889244085" duration="1133000" />
       <workItem from="1666891158124" duration="5494000" />
-      <workItem from="1666966916449" duration="3943000" />
+      <workItem from="1666966916449" duration="5182000" />
+      <workItem from="1666978663582" duration="1276000" />
+      <workItem from="1667050165354" duration="898000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -329,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666973641558</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="COMMIT - carpetas semana 2">
+      <created>1666973966558</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1666973966558</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,0 +1,9 @@
+vid https://www.youtube.com/watch?v=bZabfAKmAXc
+
+jdbc:h2:C:\Users\Karol\Desktop\BACKEND1\010-practicoh2\data\database
+jdbc:h2:~/test
+
+
+
+untitle
+C:\Users\Karol\Desktop\BACKEND1\010-proyectoBD\b_d_test\database

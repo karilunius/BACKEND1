@@ -2,7 +2,13 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/005-mesa5/.idea/shelf/Uncommitted_changes_before_Checkout_at_27_10_2022_11_31_a_ m__[Changes]" />
+      <excludeFolder url="file://$MODULE_DIR$/005-mesa5/.idea/shelf/Uncommitted_changes_before_Checkout_at_27_10_2022_11_32_a_ m__[Changes]" />
+      <excludeFolder url="file://$MODULE_DIR$/005-mesa5/.idea/shelf/Uncommitted_changes_before_Checkout_at_27_10_2022_12_16_p_ m__[Changes]" />
+      <excludeFolder url="file://$MODULE_DIR$/005-mesa5/.idea/shelf/Uncommitted_changes_before_Checkout_at_27_10_2022_12_17_p_ m__[Changes]" />
+      <excludeFolder url="file://$MODULE_DIR$/005-practicoprofe-clase5/.idea/shelf" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
