@@ -18,8 +18,8 @@ public class Main {
             //vuelve a crear
             String createSql = "DROP TABLE IF EXISTS TEST1;\n" +
                     "CREATE TABLE TEST1(ID INT PRIMARY KEY, NAME VARCHAR(255));\n" +
-                    "INSERT INTO TEST1 VALUES(1, 'Hola');\n" +
-                    "INSERT INTO TEST1 VALUES(2, 'Mundo');\n";
+                    "INSERT INTO TEST1 VALUES(1, 'Hola2');\n" +
+                    "INSERT INTO TEST1 VALUES(2, 'Mundo2');\n";
             stmt.execute(createSql);
 
             //Codigo para consultar todos los registros de la tabla TEST

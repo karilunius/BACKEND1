@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41c12b25-6bf4-4aa2-9444-6190a0a39c57" name="Changes" comment="commit - mesa 8">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../007-mesa7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-mesa7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../008 -profesor-Log4j.v2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008 -profesor-Log4j.v2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../008-mesa8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-mesa8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-practicoprofe-clase8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lista-de-Contenido.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lista-de-Contenido.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,17 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Karol/Desktop/BACKEND1/008-practicoClaseLogueo&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/008-practicoClaseLogueo",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +61,7 @@
       <workItem from="1666894468951" duration="277000" />
       <workItem from="1666909722188" duration="676000" />
       <workItem from="1666971447953" duration="349000" />
+      <workItem from="1667087414105" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="commit - mesa 8">
       <created>1666894290975</created>
