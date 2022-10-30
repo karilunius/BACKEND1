@@ -1,13 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - carpetas semana 3">
-      <change afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/jpa-buddy.xml" afterDir="false" />
+    <list default="true" id="6b158c73-2397-48b2-812f-537903739fe2" name="Changes" comment="COMMIT - nuevos ejercicios semana 3">
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD2/out/production/src/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-proyectoBD2/out/production/src/Usuario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/academia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/src/main/com/dh/academia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/src/main/com/dh/academia/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/src/main/com/dh/academia/dao/impl/EstudianteDaoEnMemoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/src/main/com/dh/academia/dao/impl/EstudianteDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/src/main/com/dh/academia/model/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/src/main/com/dh/academia/service/EstudianteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/src/test/com/dh/academia/dao/EstudianteDaoEnMemoriaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/src/test/com/dh/academia/dao/EstudianteDaoH2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/src/test/com/dh/academia/service/EstudianteServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-ejemploPatronDAO-play/umlplantuml.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/.idea/012-patronDao-Descubri-implement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/.idea/libraries/jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/consignaplayDao3tools.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/src/com/company/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/src/com/company/CuentaCajaAhorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/src/com/company/CuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/007-practicojunit-profe-clase7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/007-practicojunit-profe-clase7/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/008-practicoClaseLogueo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-actividadpatronDAO3tools/consignaplayDao3tools.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-actividadplay-basedatos/consignaplay-basedatos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/011-actividadplay-basedatos/consignaplay-basedatos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/academia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/create.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/src/main/com/dh/academia/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/src/main/com/dh/academia/dao/IDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/src/main/com/dh/academia/dao/impl/EstudianteDaoEnMemoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/src/main/com/dh/academia/dao/impl/EstudianteDaoH2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/src/main/com/dh/academia/model/Estudiante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/src/main/com/dh/academia/service/EstudianteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/src/test/com/dh/academia/dao/EstudianteDaoEnMemoriaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/src/test/com/dh/academia/dao/EstudianteDaoH2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011-ejemploPatronDAO-play/academia/src/test/com/dh/academia/service/EstudianteServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/global.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +91,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/010-proyectoBD",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -104,6 +156,7 @@
       <workItem from="1666978663582" duration="1276000" />
       <workItem from="1667050165354" duration="1086000" />
       <workItem from="1667069840954" duration="2149000" />
+      <workItem from="1667162537795" duration="1318000" />
     </task>
     <task id="LOCAL-00001" summary="001- carpeta backend1 - ejercicios">
       <created>1665971765113</created>
@@ -350,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667068513533</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="COMMIT - nuevos ejercicios semana 3">
+      <created>1667162629026</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1667162629026</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,6 +451,7 @@
     <MESSAGE value="COMMIT - carpetas semana 1" />
     <MESSAGE value="COMMIT - carpetas semana 2" />
     <MESSAGE value="COMMIT - carpetas semana 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - carpetas semana 3" />
+    <MESSAGE value="COMMIT - nuevos ejercicios semana 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT - nuevos ejercicios semana 3" />
   </component>
 </project>

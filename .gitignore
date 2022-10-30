@@ -81,3 +81,5 @@
 /proyecto_integrador/
 *.db
 *.h2.db
+
+*.sql

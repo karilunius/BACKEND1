@@ -1,0 +1,57 @@
+@startuml
+
+!theme plain
+top to bottom direction
+skinparam linetype ortho
+
+class Estudiante {
+  + Estudiante(Long, String, String): 
+  - id: Long
+  - apellido: String
+  - nombre: String
+  + toString(): String
+   apellido: String
+   id: Long
+   nombre: String
+}
+class EstudianteDaoEnMemoria {
+  + EstudianteDaoEnMemoria(List<Estudiante>): 
+  + buscar(Long): Estudiante
+  + eliminar(Long): void
+  + guardar(Estudiante): Estudiante
+  + buscarTodos(): List<Estudiante>
+}
+class EstudianteDaoH2 {
+  + EstudianteDaoH2(): 
+  + eliminar(Long): void
+  + buscarTodos(): List<Estudiante>
+  + guardar(Estudiante): Estudiante
+  + buscar(Long): Estudiante
+}
+class EstudianteService {
+  + EstudianteService(IDao<Estudiante>): 
+  + EstudianteService(): 
+  - estudianteDao: IDao<Estudiante>
+  + buscar(Long): Estudiante
+  + eliminarEstudiante(Long): void
+  + guardarEstudiante(Estudiante): Estudiante
+  + buscarTodos(): List<Estudiante>
+   estudianteDao: IDao<Estudiante>
+}
+interface IDao<T> << interface >> {
+  + eliminar(Long): void
+  + buscar(Long): T
+  + guardar(T): T
+  + buscarTodos(): List<T>
+}
+class Main {
+  + Main(): 
+  + main(String[]): void
+}
+
+EstudianteDaoEnMemoria "1" *-[#595959,plain]-> "estudianteRepositorio\n*" Estudiante             
+EstudianteDaoEnMemoria  -[#008200,dashed]-^  IDao                   
+EstudianteDaoH2         -[#595959,dashed]->  Estudiante             : "«create»"
+EstudianteDaoH2         -[#008200,dashed]-^  IDao                   
+EstudianteService      "1" *-[#595959,plain]-> "estudianteDao\n1" IDao                   
+@enduml
