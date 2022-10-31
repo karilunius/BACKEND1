@@ -15,7 +15,7 @@ public class EstudianteDAOH2 implements IDao<Estudiante> {
     //usuario y password
     //se crean entonces variables estaticas
     private final static String DB_JDBC_DRIVER = "org.h2.Driver";
-    private final static String DB_URL = "jdbc:h2:C:\\Users\\Karol\\Desktop\\BACKEND1\\012-patronDao-Descubri-implement\\db\\estudiantes";
+    private final static String DB_URL = "jdbc:h2:C:\\Users\\Karol\\Desktop\\BACKEND1\\012-patronDao-Descubri-implement\\db\\db\\estudiantes";
     private final static String DB_USER = "sa";
     private final static String DB_PASSWORD = "";
 

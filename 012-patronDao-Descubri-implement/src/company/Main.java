@@ -23,7 +23,7 @@ public class Main {
 
         estudianteService.guardarEstudiante(estudiante);
 
-        System.out.println("Database ejecutada");
+
 
 
 

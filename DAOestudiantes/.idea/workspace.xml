@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b46cced4-5021-4210-a07a-80af748058d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/012-patronDao-Descubri-implement1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAOestudiantes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/012-patronDao-Descubri-implement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/012-patronDao-Descubri-implement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/dao/EstudianteDAOH2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/dao/EstudianteDAOH2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/dao/IDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/dao/IDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/entidades/Estudiante.class" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/entidades/Estudiante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/servicios/EstudianteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/company/servicios/EstudianteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/company/dao/EstudianteDAOH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/company/dao/EstudianteDAOH2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GuTMSaxG5j1uucToaT0kXtXRH9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b46cced4-5021-4210-a07a-80af748058d5" name="Changes" comment="" />
+      <created>1667237423397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667237423397</updated>
+      <workItem from="1667237425513" duration="1318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
