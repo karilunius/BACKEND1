@@ -1,7 +1,7 @@
 package com.company;
 
-public class Main {
-    public static void main(String[] args) {
+public class parte1 {
+    /*public static void main(String[] args) {
 
         //PARTE 1
         Cuenta cuenta = new CuentaCajaAhorro();
@@ -45,6 +45,6 @@ public class Main {
         cuenta4.extraer(1100);
         System.out.println(cuenta4.getSaldo() + "la cuenta de ahorro4 se comporta como cuenta corriente5");
         //la solucion de repetir esto por causa de la herencia es pasarla a composición video1 min16:17
-
+*/
     }
 }

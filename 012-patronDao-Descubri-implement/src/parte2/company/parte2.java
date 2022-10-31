@@ -1,7 +1,7 @@
 package company;
 
 public class Main {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
 
         //declarar cuenta
 
@@ -17,7 +17,7 @@ public class Main {
         cuenta.extraer(2100);
         System.out.println(cuenta.getSaldo() + "si extrae porque ahora se comporta como cuenta corriente");
 
-
+*/
 
     }
 }
