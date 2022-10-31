@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0efdb103-a41d-4d83-a0d6-67717adf9b2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/011-actividadplay-basedatos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/012-actividadpatronDAO3tools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/libraries/jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/dao/EstudianteDAOH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/entidades/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/servicios/EstudianteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parte2/company/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parte2/company/CuentaCajaAhorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parte2/company/CuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parte2/company/EstrategiaCajaAhorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parte2/company/EstrategiaCuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parte2/company/EstrategiaExtraccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parte2/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml DAO - PARTE 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml DAO.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/012-patronDao-Descubri-implement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/012-patronDao-Descubri-implement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/012-patronDao-Descubri-implement/com/company/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/012-patronDao-Descubri-implement/com/company/CuentaCajaAhorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/012-patronDao-Descubri-implement/com/company/CuentaCorriente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/012-patronDao-Descubri-implement/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parte1/company/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CuentaCajaAhorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parte1/company/CuentaCajaAhorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parte1/company/CuentaCorriente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parte1/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GuHFWUneKGSXmLDAhru3jwS60O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0efdb103-a41d-4d83-a0d6-67717adf9b2a" name="Changes" comment="" />
+      <created>1667231445978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667231445978</updated>
+      <workItem from="1667231447196" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
