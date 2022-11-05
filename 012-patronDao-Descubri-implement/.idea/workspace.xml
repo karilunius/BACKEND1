@@ -2,33 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0efdb103-a41d-4d83-a0d6-67717adf9b2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/012-patronDao-Descubri-implement/012-patronDao-Descubri-implement1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/.idea/012-xDAOestudiantes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/src/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/src/company/dao/EstudianteDAOH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/src/company/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/src/company/entidades/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-xDAOestudiantes/src/company/servicios/EstudianteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-daoestudiantes/LiveCoding-Academia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/dao-charter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/dao/impl/AvionDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/model/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/service/AvionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/test/com/dh/charter/service/AvionServiceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008-practicoClaseLogueo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/012-daoestudiantes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/src/company/dao/EstudianteDAOH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/src/company/dao/EstudianteDAOH2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/servicios/EstudianteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/servicios/EstudianteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/.idea/dictionaries" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/DAOestudiantes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAOestudiantes/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/012-xDAOestudiantes",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/012-patronDao-Descubri-implement",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -101,6 +103,7 @@
       <workItem from="1667233471086" duration="2100000" />
       <workItem from="1667237105208" duration="1137000" />
       <workItem from="1667238527260" duration="2826000" />
+      <workItem from="1667582983286" duration="837000" />
     </task>
     <servers />
   </component>

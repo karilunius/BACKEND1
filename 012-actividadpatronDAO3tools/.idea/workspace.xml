@@ -2,44 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f3a9a8f-3c36-4e6d-8237-8e99c1b75e14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/011-actividadplay-basedatos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../011-actividadplay-basedatos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/012-actividadpatronDAO3tools.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/company/dao/EstudianteDAOH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/company/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/company/entidades/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/company/servicios/EstudianteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte2/company/Cuenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte2/company/CuentaCajaAhorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte2/company/CuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte2/company/EstrategiaCajaAhorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte2/company/EstrategiaCuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte2/company/EstrategiaExtraccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte2/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/.idea/012-patronDao-Descubri-implement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/.idea/012-patronDao-Descubri-implement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/com/company/Cuenta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/com/company/CuentaCajaAhorro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/com/company/CuentaCorriente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/out/production/012-patronDao-Descubri-implement/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/com/company/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte1/company/Cuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/com/company/CuentaCajaAhorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte1/company/CuentaCajaAhorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/com/company/CuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte1/company/CuentaCorriente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../012-patronDao-Descubri-implement/src/parte1/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-daoestudiantes/LiveCoding-Academia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/dao-charter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/dao/impl/AvionDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/model/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/service/AvionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/test/com/dh/charter/service/AvionServiceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../008-practicoClaseLogueo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../008-practicoClaseLogueo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/012-daoestudiantes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/src/company/dao/EstudianteDAOH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/src/company/dao/EstudianteDAOH2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,15 +47,15 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Karol/Desktop/BACKEND1/011-actividadplay-basedatos&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/BACKEND1/011-actividadplay-basedatos",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,6 +66,8 @@
       <updated>1667230040948</updated>
       <workItem from="1667230042622" duration="15000" />
       <workItem from="1667230590343" duration="12000" />
+      <workItem from="1667494299089" duration="10000" />
+      <workItem from="1667582862086" duration="16000" />
     </task>
     <servers />
   </component>

@@ -2,11 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41c12b25-6bf4-4aa2-9444-6190a0a39c57" name="Changes" comment="commit - mesa 8">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../007-practicojunit-profe-clase7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-daoestudiantes/LiveCoding-Academia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/dao-charter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/dao/impl/AvionDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/model/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/service/AvionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/main/com/dh/charter/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012-practicoclase12/src/test/com/dh/charter/service/AvionServiceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-actividadpatronDAO3tools/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/012-daoestudiantes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012-daoestudiantes/src/company/dao/EstudianteDAOH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../012-daoestudiantes/src/company/dao/EstudianteDAOH2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +84,9 @@
       <workItem from="1666909722188" duration="676000" />
       <workItem from="1666971447953" duration="349000" />
       <workItem from="1667087414105" duration="120000" />
+      <workItem from="1667497698413" duration="1187000" />
+      <workItem from="1667508268411" duration="40000" />
+      <workItem from="1667514369536" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="commit - mesa 8">
       <created>1666894290975</created>

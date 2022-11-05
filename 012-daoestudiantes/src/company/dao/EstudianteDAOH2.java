@@ -15,7 +15,10 @@ public class EstudianteDAOH2 implements IDao<Estudiante>{
     //usuario y password
     //se crean entonces variables estaticas
     private final static String DB_JDBC_DRIVER = "org.h2.Driver";
-    private final static String DB_URL = "jdbc:h2:file:C:\\Users\\Karol\\Desktop\\BACKEND1\\012-daoestudiantes\\data\\estudiantes";
+     //jdbc:h2:tcp://localhost/~/test
+    //jdbc:h2:~/dbestudiantes
+    //"jdbc:h2:file:C:\\Users\\Karol\\Desktop\\BACKEND1\\012-daoestudiantes\\data\\estudiantes"
+    private final static String DB_URL = "jdbc:h2:tcp://localhost/~/dbestudiantes";
     private final static String DB_USER = "sa";
     private final static String DB_PASSWORD = "";
 
@@ -35,8 +38,10 @@ public class EstudianteDAOH2 implements IDao<Estudiante>{
     @Override
     public Estudiante guardar(Estudiante estudiante) {
         //Usar una conexion
-        Connection connection = null;
-        PreparedStatement preparedStatement = null;
+        Connection connection;
+        connection = null;
+        PreparedStatement preparedStatement;
+        preparedStatement = null;
 
         //levantar el driver y conectarnos
         //puede arrojar exception por lo que usamos try catch
@@ -73,8 +78,10 @@ public class EstudianteDAOH2 implements IDao<Estudiante>{
 
     @Override
     public void eliminar(Long id) {
-       Connection connection = null;
-        PreparedStatement preparedStatement = null;
+       Connection connection;
+        connection = null;
+        PreparedStatement preparedStatement;
+        preparedStatement = null;
 
         try {
             Class.forName("DB_JDBC_DRIVER");
@@ -93,8 +100,10 @@ public class EstudianteDAOH2 implements IDao<Estudiante>{
 
     @Override
     public Estudiante buscar(Long id) {
-        Connection connection = null;
-        PreparedStatement preparedStatement = null;
+        Connection connection;
+        connection = null;
+        PreparedStatement preparedStatement;
+        preparedStatement = null;
         Estudiante estudiante = null;
 
         try {
@@ -134,8 +143,10 @@ public class EstudianteDAOH2 implements IDao<Estudiante>{
 
     @Override
     public List<Estudiante> buscarTodos() {
-       Connection connection = null;
-        PreparedStatement preparedStatement = null;
+       Connection connection;
+        connection = null;
+        PreparedStatement preparedStatement;
+        preparedStatement = null;
         //en vez de 1 persona es una lista
         List<Estudiante> estudiantes = new ArrayList();
 
